@@ -4,7 +4,7 @@ A personal portfolio exploring product thinking, systems design, and experiments
 
 ## About
 
-I'm a Product Manager with a background in software engineering. I care about how systems actually work in the real world, especially where technology meets messy human behaviour.
+Hi, I'm Muslimah. A Product Manager with a background in software engineering. I care about how systems actually work in the real world, especially where technology meets messy human behaviour.
 
 This portfolio is a collection of products, case studies, and small experiments I've built while exploring questions around usability, accessibility, AI-assisted workflows, and service design.
 
